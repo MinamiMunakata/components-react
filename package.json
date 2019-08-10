@@ -6,9 +6,11 @@
     "faker": "^4.1.0",
     "handlebars": "^4.1.2",
     "js-yaml": "^3.13.1",
+    "lodash.template": "^4.5.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-scripts": "^3.1.0",
+    "tar": "^4.4.10"
   },
   "scripts": {
     "start": "react-scripts start",
