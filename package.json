@@ -5,7 +5,7 @@
   "dependencies": {
     "eslint-utils": "^1.4.2",
     "faker": "^4.1.0",
-    "handlebars": "^4.2.0",
+    "handlebars": "^4.7.7",
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.15",
     "lodash.template": "^4.5.0",
